@@ -12,3 +12,4 @@ kramdown:
   auto_ids: true
 highlighter: pygments
 
+exclude: [vendor]

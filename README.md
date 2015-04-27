@@ -1,4 +1,5 @@
 # reinventphx.github.io
+[![Build Status](https://travis-ci.org/reinventphx/reinventphx.github.io.svg?branch=master)](https://travis-ci.org/reinventphx/reinventphx.github.io)
 
 This is a dashboard page for displaying the data on [this google spread sheet](https://docs.google.com/spreadsheets/d/1JvF5lyj5h_5DgLOBItflwd7438dF0aSuCtqDaN2CMt8/edit?usp=sharing)
 

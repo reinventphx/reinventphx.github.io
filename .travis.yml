@@ -3,5 +3,4 @@ cache: bundler
 sudo: false
 rvm:
 - 2.2
-before_script: bundle update
 script:  bundle exec jekyll build

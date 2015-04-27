@@ -1,0 +1,14 @@
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+base_path: "//reinventphx.github.io/"
+
+kramdown:
+  input: GFM
+  auto_ids: true
+highlighter: pygments
+

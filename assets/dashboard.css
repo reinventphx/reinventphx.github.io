@@ -18,4 +18,8 @@
   color: #512d66;
 }
 
-/*.element-icon {}*/
+.data-updated-footnote {
+  font-style: italic;
+  text-align: right;
+  padding-right: 100px;
+}
